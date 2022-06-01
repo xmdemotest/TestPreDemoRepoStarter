@@ -13,7 +13,7 @@ Param (
     # and used only for transient local development environments.
     [Parameter(Mandatory = $true,
         HelpMessage = "Sets the sitecore\\admin password for this environment via environment variable.",
-        ParameterSetName = "env-init")]
+        ParameterSetName = "env-initt")]
     [string]$AdminPassword
 )
 
