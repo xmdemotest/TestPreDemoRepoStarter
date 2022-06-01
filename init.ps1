@@ -111,7 +111,7 @@ if ($InitEnv) {
     # HOST_LICENSE_FOLDER
     Set-EnvFileVariable "HOST_LICENSE_FOLDER" -Value $LicenseXmlPath
 
-    # CM_HOST
+    # CM_HOST   
     Set-EnvFileVariable "CM_HOST" -Value "xmcloudcm.localhost"
 
     # RENDERING_HOST
