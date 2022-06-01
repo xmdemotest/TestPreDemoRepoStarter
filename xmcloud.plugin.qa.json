@@ -9,5 +9,5 @@
   "audience": "https://api-staging.sitecore-staging.cloud",
   "audienceClientCredentials": "https://xmclouddeploy-api-staging.sitecore-staging.cloud",
   "deployPollingStatusTimeoutInSeconds": "2",
-  "httpAttemptsNumber": "3"
+  "httpAttemptsNumber": "3",
 }
